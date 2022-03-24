@@ -4,7 +4,6 @@ import java.text.NumberFormat;
 import java.util.*;
 
 public class AmazingNumbers {
-
     public static void main(String[] args) {
         printContents();
     }
