@@ -3,7 +3,7 @@ package AmazingNumbers;
 import java.text.NumberFormat;
 import java.util.*;
 
-public class amazingNumbers {
+public class AmazingNumbers {
 
     public static void main(String[] args) {
         printContents();
