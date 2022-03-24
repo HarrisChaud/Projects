@@ -385,15 +385,6 @@ public class amazingNumbers {
         System.out.println("\nGoodbye!");
     }
 
-    //    public static HashSet<String> checkNegativeInput(String[] arr) {
-//        HashSet<String> set = new HashSet<>();
-//        for (int i = 0; i < arr.length; i++) {
-//            if (arr[i].charAt(0) == '-') {
-//                set.add(arr[i]);
-//            }
-//        }
-//        return set;
-//    }
     public static void formatTwoNumbers(long first, long second) {
         ArrayList<Boolean> boolArr = new ArrayList<>();
         ArrayList<String> strArr = new ArrayList<>();
